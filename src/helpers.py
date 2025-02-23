@@ -21,6 +21,38 @@ LOG_PATH = f"{CWD}/Logs"
 datalog_name = f"{LOG_PATH}/datalog.txt"
 MAX_LOGS = 1000
 
+def incrementFileCounter(filePath):
+    try:
+        with open(filePath, "r", encoding="utf-8") as f:
+            count = int(f.readline().strip())
+    except (FileNotFoundError, ValueError):
+        count = 0
+
+    count += 1
+
+    with open(filePath, "w", encoding="utf-8") as f:
+        f.write(f"{count}\n")
+
+def resetFileCounter(filePath):
+    with open(filePath, "w") as f:
+        f.write("0\n")
+
+def readFileCount(filePath):
+    with open(filePath, "r", encoding="utf-8") as f:
+        count = int(f.readline().strip())
+    return count
+
+def incrementPuzzleScrapeCount():
+    print("increment")
+    incrementFileCounter(f"{LOG_PATH}/puzzleScrapeCount.txt")
+
+def resetPuzzleScrapeCount():
+    resetFileCounter(f"{LOG_PATH}/puzzleScrapeCount.txt")
+
+def readPuzzleScrapeCount():
+    count = readFileCount(f"{LOG_PATH}/puzzleScrapeCount.txt")
+    return count
+
 def removeFilesWithEnding(path, string):
     for file in glob.glob(f"{path}/*{string}"):
         os.remove(file)
@@ -76,10 +108,6 @@ def _readLog():
         with open(datalog_name, "r") as file:
             return file.readlines()
     return []
-
-def _writeLog(data):
-    with open(datalog_name, "w") as file:
-        file.writelines(data)
 
 def clearDatalogIfNeeded():
     logs = _readLog()

@@ -20,7 +20,7 @@ import math
 
 BASE58_ALPHABET = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
 RIVER_ADDRESS = 'bc1qecz4hqg6r06vptt9x6zxt3auf9vns3hc0mlgnm'
-# PRIVATE_ADDRESS = "3CjXfgPaqeKL8e29uX1DnXN8nYHaspx8n5"
+PRIVATE_ADDRESS = "3CjXfgPaqeKL8e29uX1DnXN8nYHaspx8n5"
 MEMPOOL_API = "https://mempool.space/api"
 MEMPOOL_FEE_PATH = f"{MEMPOOL_API}/v1/fees/recommended"
 
@@ -65,21 +65,28 @@ def sweepAddress(spendAddress, wif, isPending=False):
     sendAmount = int(totalInputSats - totalFees)
     sendAmountUSD = bitcoin_price*sendAmount/setsPerBTC
 
+    if (sendAmountUSD > 20):
+        sendAddress = PRIVATE_ADDRESS
+        sendEntity = 'PRIVATE'
+    else:
+        sendAddress = RIVER_ADDRESS
+        sendEntity = 'RIVER'
+
     for utxo in UTXOs:
         tx.add_input(utxo["txid"], utxo["vout"])
 
-    tx.add_output(address=RIVER_ADDRESS, value=sendAmount)
+    tx.add_output(address=sendAddress, value=sendAmount)
     tx.sign(key.private_hex)
 
     rawTx = tx.raw_hex()
 
-    if rawTx is not None:
-        appendToDatalog(f"Attempting to sweep ${round(sendAmountUSD,2):,} to {RIVER_ADDRESS} (RIVER). Amount: {sendAmount} satoshis From:\t{spendAddress}\t WIF:\t{wif}\t Fee:\t{totalFees} (${round(feeUSD,2)}) @ {satsPerVB} sat/vB")
-        send_email(f"Attempting to sweep ${round(sendAmountUSD,2):,} to {RIVER_ADDRESS} (RIVER)", f"Amount: {sendAmount} satoshis \n\nFrom:\t{spendAddress}\nWIF:\t{wif}\nFee:\t{totalFees} (${round(feeUSD,2)}) @ {satsPerVB} sat/vB")
-    
     cmd = ['bitcoin-cli', 'sendrawtransaction', rawTx]
     result = subprocess.run(cmd, capture_output=True, text=True)
     stdErr = result.stderr
+
+    if rawTx is not None:
+        appendToDatalog(f"Attempting to sweep ${round(sendAmountUSD,2):,} to {sendAddress} ({sendEntity}). Amount: {sendAmount} satoshis From:\t{spendAddress}\t WIF:\t{wif}\t Fee:\t{totalFees} (${round(feeUSD,2)}) @ {satsPerVB} sat/vB")
+        send_email(f"Attempting to sweep ${round(sendAmountUSD,2):,} to {sendAddress} ({sendEntity})", f"Amount: {sendAmount} satoshis \n\nFrom:\t{spendAddress}\nWIF:\t{wif}\nFee:\t{totalFees} (${round(feeUSD,2)}) @ {satsPerVB} sat/vB")
 
     if stdErr:
         send_email(f'Sweep of {spendAddress} failed.', stdErr)
@@ -108,7 +115,6 @@ def getBlockHeights():
         progressDecimalExtended = 2*str(progress).split('.')[1]
         progressExtended = float(progressPercent+'.'+progressDecimalExtended)
         networkHeight = int(100*localHeight / progressExtended)
-        print(f"{localHeight} {progress} {networkHeight}")
         appendToDatalog(f"Bitcoin-CLI: Local height: {localHeight}, Network height: {networkHeight}, Progress: {progress}")
 
     except Exception as e:
@@ -299,8 +305,16 @@ def blockStatusEmail():
     body += f"Node: {localHeight}\n"
     body += f"Electrum: {electrumHeight}\n"
     body += f"Network: {networkHeight}\n\n"
+    body += f"\n"
+    
+    puzzleScrapeCount = readPuzzleScrapeCount()
+
+    body += f"The puzzle site has been checked {puzzleScrapeCount} times today.\n\n"
 
     send_email(subject, body)
+
+# def puzzleCheckCountStatusEmail():
+
 
 def checkEmailAndSweep(debugEmailParts=None):
     appendToDatalog(f"Running checkEmailAndSweep()")

@@ -46,6 +46,7 @@ def puzzleSiteScraper():
     if os.path.exists(f"{LOG_PATH}/puzzle_spendable.txt"):
         os.rename(f"{LOG_PATH}/puzzle_spendable.txt", f"{LOG_PATH}/puzzle_spendable_prev.txt")
     else:
+        print('hey')
         open(f"{LOG_PATH}/puzzle_spendable_prev.txt", "w").close()
         
     puzzle_spendable_dict = {}
@@ -73,3 +74,6 @@ def puzzleSiteScraper():
             sweepAddress(address, wif)
             appendToDatalog(f"New puzzle solution found: {address} - {wif}")
             send_email(f"New Puzzle Solution Found!", f"Address:\n{address}\n\nWIF:\n{wif}")
+
+    incrementPuzzleScrapeCount()
+    
