@@ -1,0 +1,10 @@
+sudo systemctl start bitcoin.service
+sudo systemctl stop bitcoin.service
+sudo systemctl restart bitcoin.service
+sudo systemctl status bitcoin.service
+
+
+sudo systemctl start bitcoind.service
+sudo systemctl stop bitcoind.service
+sudo systemctl restart bitcoind.service
+sudo systemctl status bitcoind.service
