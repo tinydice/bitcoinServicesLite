@@ -68,3 +68,7 @@ Traceback (most recent call last):
     open(datalog_name, "w").close()
     ^^^^^^^^^^^^^^^^^^^^^^^
 FileNotFoundError: [Errno 2] No such file or directory: '/home/admin/Documents/bitcoinServices/Logs/datalog.txt'
+Traceback (most recent call last):
+  File "/home/admin/Documents/bitcoinServicesLite/main.py", line 13, in <module>
+    scheduler.RunTask(seconds=5, func=main)
+TypeError: TaskScheduler.RunTask() got an unexpected keyword argument 'seconds'
