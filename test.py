@@ -10,7 +10,7 @@ FILE_NAME = f"{LOG_PATH}/puzzle_spendable.txt";
 # puzzleSiteScraper() 
 
 # Bitcoin-cli ping test + Website ping test
-# blockStatusEmail() # Sends an email with the status of the node.
+blockStatusEmail() # Sends an email with the status of the node.
 
 # # Block parser test
 # blockParser() # Refreshes block recipients list. 
@@ -39,7 +39,7 @@ FILE_NAME = f"{LOG_PATH}/puzzle_spendable.txt";
 
 # sweepAddress('1P5yTd2w1EgNY4zdTVxnT4G7ovXrWYYuRq',  'KxH3bvY8dhscgjsTy8fSsorP93F4UsyXoZY7aeK1W3AJjXEdZD4w')
 
-sweepAddress('bc1q72nyp6mzxjxm02j7t85pg0pq24684zdj2wuweu',  'KxH3bvY8dhscgjsTy8fSsorP93F4UsyXoZY7aeK1W3AJjXEdZD4w')
+# sweepAddress('bc1q72nyp6mzxjxm02j7t85pg0pq24684zdj2wuweu',  'KxH3bvY8dhscgjsTy8fSsorP93F4UsyXoZY7aeK1W3AJjXEdZD4w')
 
 
 # file-counter

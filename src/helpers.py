@@ -43,7 +43,6 @@ def readFileCount(filePath):
     return count
 
 def incrementPuzzleScrapeCount():
-    print("increment")
     incrementFileCounter(f"{LOG_PATH}/puzzleScrapeCount.txt")
 
 def resetPuzzleScrapeCount():
