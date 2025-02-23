@@ -1,246 +1,86 @@
-(2025-02-23 10:51:40.00): Bitcoin-CLI: Local height: 884998, Network height: 885002, Progress: 99.9994915237127
-(2025-02-23 10:51:40.00): Running getBlockHeights()
-(2025-02-23 10:51:40.00): Running blockParser()
-(2025-02-23 10:51:32.53): Running puzzleSiteScraper()
-(2025-02-23 10:51:32.53): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:51:32.48): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:51:30.00): Bitcoin-CLI: Local height: 884998, Network height: 885002, Progress: 99.9994962891647
-(2025-02-23 10:51:30.00): Running getBlockHeights()
-(2025-02-23 10:51:30.00): Running blockParser()
-(2025-02-23 10:51:22.77): Running puzzleSiteScraper()
-(2025-02-23 10:51:22.77): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:51:22.73): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:51:20.00): Bitcoin-CLI: Local height: 884998, Network height: 885002, Progress: 99.99950105461713
-(2025-02-23 10:51:20.00): Running getBlockHeights()
-(2025-02-23 10:51:20.00): Running blockParser()
-(2025-02-23 10:51:13.84): Running puzzleSiteScraper()
-(2025-02-23 10:51:13.84): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:51:13.80): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:51:10.00): Bitcoin-CLI: Local height: 884998, Network height: 885002, Progress: 99.99950582007
-(2025-02-23 10:51:10.00): Running getBlockHeights()
-(2025-02-23 10:51:10.00): Running blockParser()
-(2025-02-23 10:51:02.75): Running puzzleSiteScraper()
-(2025-02-23 10:51:02.75): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:51:02.70): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:51:00.00): Bitcoin-CLI: Local height: 884998, Network height: 885002, Progress: 99.99951058552335
-(2025-02-23 10:51:00.00): Running getBlockHeights()
-(2025-02-23 10:51:00.00): Running blockParser()
-(2025-02-23 10:50:52.58): Running puzzleSiteScraper()
-(2025-02-23 10:50:52.58): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:50:52.54): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:50:50.00): Bitcoin-CLI: Local height: 884998, Network height: 885002, Progress: 99.99951535097715
-(2025-02-23 10:50:50.00): Running getBlockHeights()
-(2025-02-23 10:50:50.00): Running blockParser()
-(2025-02-23 10:50:42.84): Running puzzleSiteScraper()
-(2025-02-23 10:50:42.84): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:50:42.80): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:50:40.00): Bitcoin-CLI: Local height: 884998, Network height: 885002, Progress: 99.99952011643138
-(2025-02-23 10:50:40.00): Running getBlockHeights()
-(2025-02-23 10:50:40.00): Running blockParser()
-(2025-02-23 10:49:32.32): Running puzzleSiteScraper()
-(2025-02-23 10:49:32.32): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:49:32.28): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:49:30.00): Bitcoin-CLI: Local height: 884998, Network height: 885001, Progress: 99.99955347462385
-(2025-02-23 10:49:30.00): Running getBlockHeights()
-(2025-02-23 10:49:30.00): Running blockParser()
-(2025-02-23 10:49:22.81): Running puzzleSiteScraper()
-(2025-02-23 10:49:22.81): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:49:22.76): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:49:20.00): Bitcoin-CLI: Local height: 884998, Network height: 885001, Progress: 99.99955824008173
-(2025-02-23 10:49:20.00): Running getBlockHeights()
-(2025-02-23 10:49:20.00): Running blockParser()
-(2025-02-23 10:49:12.29): Running puzzleSiteScraper()
-(2025-02-23 10:49:12.29): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:49:12.24): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:49:10.00): Bitcoin-CLI: Local height: 884998, Network height: 885001, Progress: 99.99956300554007
-(2025-02-23 10:49:10.00): Running getBlockHeights()
-(2025-02-23 10:49:10.00): Running blockParser()
-(2025-02-23 10:49:02.91): Running puzzleSiteScraper()
-(2025-02-23 10:49:02.91): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:49:02.87): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:49:00.00): Bitcoin-CLI: Local height: 884998, Network height: 885001, Progress: 99.99956777099887
-(2025-02-23 10:49:00.00): Running getBlockHeights()
-(2025-02-23 10:49:00.00): Running blockParser()
-(2025-02-23 10:48:52.44): Running puzzleSiteScraper()
-(2025-02-23 10:48:52.43): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:48:52.39): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:48:50.00): Bitcoin-CLI: Local height: 884998, Network height: 885001, Progress: 99.99957205991217
-(2025-02-23 10:48:50.00): Running getBlockHeights()
-(2025-02-23 10:48:50.00): Running blockParser()
-(2025-02-23 10:48:43.22): Running puzzleSiteScraper()
-(2025-02-23 10:48:43.22): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:48:43.17): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:48:40.00): Bitcoin-CLI: Local height: 884998, Network height: 885001, Progress: 99.9995768253718
-(2025-02-23 10:48:40.00): Running getBlockHeights()
-(2025-02-23 10:48:40.00): Running blockParser()
-(2025-02-23 10:45:02.19): Running puzzleSiteScraper()
-(2025-02-23 10:45:02.19): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:45:02.15): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:45:00.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99968214214609
-(2025-02-23 10:45:00.00): Running getBlockHeights()
-(2025-02-23 10:45:00.00): Running blockParser()
-(2025-02-23 10:44:54.09): Running puzzleSiteScraper()
-(2025-02-23 10:44:54.09): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:44:54.04): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:44:50.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99968690761625
-(2025-02-23 10:44:50.00): Running getBlockHeights()
-(2025-02-23 10:44:50.00): Running blockParser()
-(2025-02-23 10:44:42.09): Running puzzleSiteScraper()
-(2025-02-23 10:44:42.09): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:44:42.05): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:44:40.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99969167308684
-(2025-02-23 10:44:40.00): Running getBlockHeights()
-(2025-02-23 10:44:40.00): Running blockParser()
-(2025-02-23 10:44:33.54): Running puzzleSiteScraper()
-(2025-02-23 10:44:33.54): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:44:33.49): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:44:30.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99969643855789
-(2025-02-23 10:44:30.00): Running getBlockHeights()
-(2025-02-23 10:44:30.00): Running blockParser()
-(2025-02-23 10:44:22.82): Running puzzleSiteScraper()
-(2025-02-23 10:44:22.82): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:44:22.78): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:44:20.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.9997012040294
-(2025-02-23 10:44:20.00): Running getBlockHeights()
-(2025-02-23 10:44:20.00): Running blockParser()
-(2025-02-23 10:44:12.48): Running puzzleSiteScraper()
-(2025-02-23 10:44:12.48): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:44:12.44): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:44:10.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99970549295416
-(2025-02-23 10:44:10.00): Running getBlockHeights()
-(2025-02-23 10:44:10.00): Running blockParser()
-(2025-02-23 10:44:02.98): Running puzzleSiteScraper()
-(2025-02-23 10:44:02.98): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:44:02.93): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:44:00.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99971073497377
-(2025-02-23 10:44:00.00): Running getBlockHeights()
-(2025-02-23 10:44:00.00): Running blockParser()
-(2025-02-23 10:43:52.61): Running puzzleSiteScraper()
-(2025-02-23 10:43:52.61): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:43:52.57): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:43:50.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99971550044664
-(2025-02-23 10:43:50.00): Running getBlockHeights()
-(2025-02-23 10:43:50.00): Running blockParser()
-(2025-02-23 10:43:40.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99972026591999
-(2025-02-23 10:43:40.00): Running getBlockHeights()
-(2025-02-23 10:43:40.00): Running blockParser()
-(2025-02-23 10:43:32.76): Running puzzleSiteScraper()
-(2025-02-23 10:43:32.76): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:43:32.72): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:43:30.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99972503139377
-(2025-02-23 10:43:30.00): Running getBlockHeights()
-(2025-02-23 10:43:30.00): Running blockParser()
-(2025-02-23 10:43:23.72): Running puzzleSiteScraper()
-(2025-02-23 10:43:23.72): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:43:23.67): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:43:20.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99972979686798
-(2025-02-23 10:43:20.00): Running getBlockHeights()
-(2025-02-23 10:43:20.00): Running blockParser()
-(2025-02-23 10:43:12.66): Running puzzleSiteScraper()
-(2025-02-23 10:43:12.66): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:43:12.61): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:43:10.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.9997345623427
-(2025-02-23 10:43:10.00): Running getBlockHeights()
-(2025-02-23 10:43:10.00): Running blockParser()
-(2025-02-23 10:43:02.74): Running puzzleSiteScraper()
-(2025-02-23 10:43:02.74): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:43:02.69): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:43:00.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99973932781782
-(2025-02-23 10:43:00.00): Running getBlockHeights()
-(2025-02-23 10:43:00.00): Running blockParser()
-(2025-02-23 10:42:54.48): Running puzzleSiteScraper()
-(2025-02-23 10:42:54.48): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:42:54.44): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:42:50.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99974409329342
-(2025-02-23 10:42:50.00): Running getBlockHeights()
-(2025-02-23 10:42:50.00): Running blockParser()
-(2025-02-23 10:42:43.35): Running puzzleSiteScraper()
-(2025-02-23 10:42:43.35): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:42:43.30): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:42:40.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99974885876945
-(2025-02-23 10:42:40.00): Running getBlockHeights()
-(2025-02-23 10:42:40.00): Running blockParser()
-(2025-02-23 10:42:32.43): Running puzzleSiteScraper()
-(2025-02-23 10:42:32.43): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:42:32.38): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:42:30.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99975362424598
-(2025-02-23 10:42:30.00): Running getBlockHeights()
-(2025-02-23 10:42:30.00): Running blockParser()
-(2025-02-23 10:42:22.70): Running puzzleSiteScraper()
-(2025-02-23 10:42:22.70): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:42:22.66): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:42:20.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99975838972294
-(2025-02-23 10:42:20.00): Running getBlockHeights()
-(2025-02-23 10:42:20.00): Running blockParser()
-(2025-02-23 10:42:12.28): Running puzzleSiteScraper()
-(2025-02-23 10:42:12.28): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:42:12.23): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:42:10.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99976315520034
-(2025-02-23 10:42:10.00): Running getBlockHeights()
-(2025-02-23 10:42:10.00): Running blockParser()
-(2025-02-23 10:42:03.04): Running puzzleSiteScraper()
-(2025-02-23 10:42:03.04): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:42:03.00): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:42:00.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.9997679206782
-(2025-02-23 10:42:00.00): Running getBlockHeights()
-(2025-02-23 10:42:00.00): Running blockParser()
-(2025-02-23 10:41:53.62): Running puzzleSiteScraper()
-(2025-02-23 10:41:53.62): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:41:53.57): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:41:50.00): Bitcoin-CLI: Local height: 884998, Network height: 885000, Progress: 99.99977268615655
-(2025-02-23 10:41:50.00): Running getBlockHeights()
-(2025-02-23 10:41:50.00): Running blockParser()
-(2025-02-23 10:41:42.61): Running puzzleSiteScraper()
-(2025-02-23 10:41:42.61): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:41:42.56): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:41:40.00): Bitcoin-CLI: Local height: 884998, Network height: 884999, Progress: 99.99977745163531
-(2025-02-23 10:41:40.00): Running getBlockHeights()
-(2025-02-23 10:41:40.00): Running blockParser()
-(2025-02-23 10:41:32.98): Running puzzleSiteScraper()
-(2025-02-23 10:41:32.98): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:41:32.93): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:41:30.00): Bitcoin-CLI: Local height: 884998, Network height: 884999, Progress: 99.99978221711453
-(2025-02-23 10:41:30.00): Running getBlockHeights()
-(2025-02-23 10:41:30.00): Running blockParser()
-(2025-02-23 10:41:22.35): Running puzzleSiteScraper()
-(2025-02-23 10:41:22.35): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:41:22.31): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:41:20.00): Bitcoin-CLI: Local height: 884998, Network height: 884999, Progress: 99.99978698259423
-(2025-02-23 10:41:20.00): Running getBlockHeights()
-(2025-02-23 10:41:20.00): Running blockParser()
-(2025-02-23 10:41:12.57): Running puzzleSiteScraper()
-(2025-02-23 10:41:12.57): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:41:12.52): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:41:10.00): Bitcoin-CLI: Local height: 884998, Network height: 884999, Progress: 99.99979174807436
-(2025-02-23 10:41:10.00): Running getBlockHeights()
-(2025-02-23 10:41:10.00): Running blockParser()
-(2025-02-23 10:41:04.15): Running puzzleSiteScraper()
-(2025-02-23 10:41:04.15): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:41:04.11): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:41:00.00): Bitcoin-CLI: Local height: 884998, Network height: 884999, Progress: 99.99979651355495
-(2025-02-23 10:41:00.00): Running getBlockHeights()
-(2025-02-23 10:41:00.00): Running blockParser()
-(2025-02-23 10:40:52.79): Running puzzleSiteScraper()
-(2025-02-23 10:40:52.79): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:40:52.74): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:40:50.00): Bitcoin-CLI: Local height: 884998, Network height: 884999, Progress: 99.99980127903599
-(2025-02-23 10:40:50.00): Running getBlockHeights()
-(2025-02-23 10:40:50.00): Running blockParser()
-(2025-02-23 10:40:42.77): Running puzzleSiteScraper()
-(2025-02-23 10:40:42.77): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:40:42.72): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:40:40.00): Bitcoin-CLI: Local height: 884998, Network height: 884999, Progress: 99.9998060445175
-(2025-02-23 10:40:40.00): Running getBlockHeights()
-(2025-02-23 10:40:40.00): Running blockParser()
-(2025-02-23 10:40:32.00): Running puzzleSiteScraper()
-(2025-02-23 10:40:32.00): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:40:31.96): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:40:30.00): Bitcoin-CLI: Local height: 884998, Network height: 884999, Progress: 99.99981080999946
-(2025-02-23 10:40:30.00): Running getBlockHeights()
-(2025-02-23 10:40:30.00): Running blockParser()
-(2025-02-23 10:40:22.80): Running puzzleSiteScraper()
-(2025-02-23 10:40:22.80): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_addresses.txt
-(2025-02-23 10:40:22.75): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884998_data.txt
-(2025-02-23 10:40:20.00): Bitcoin-CLI: Local height: 884998, Network height: 884999, Progress: 99.99981557548185
-(2025-02-23 10:40:20.00): Running getBlockHeights()
-(2025-02-23 10:40:20.00): Running blockParser()
+(2025-02-23 11:37:55.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:50.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:45.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:40.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:35.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:30.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:25.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:20.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:15.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:10.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:05.00): Running puzzleSiteScraper()
+(2025-02-23 11:37:00.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:55.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:50.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:45.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:40.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:35.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:30.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:25.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:20.57): Sending email: No UTXOs Found
+(2025-02-23 11:36:20.17): Fetching BTC price from mempool.space: 95304
+(2025-02-23 11:36:20.16): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 11:36:19.96): Running puzzleSiteScraper()
+(2025-02-23 11:36:19.66): Running sweepAddress()
+(2025-02-23 11:36:16.78): Sending email: New Puzzle Solution Found!
+(2025-02-23 11:36:16.78): New puzzle solution found: 1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9 - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qbP2K5cm35XKMND1X1KW
+(2025-02-23 11:36:15.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:10.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:05.00): Running puzzleSiteScraper()
+(2025-02-23 11:36:00.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:55.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:50.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:45.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:40.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:35.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:30.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:25.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:20.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:15.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:10.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:05.00): Running puzzleSiteScraper()
+(2025-02-23 11:35:00.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:55.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:50.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:45.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:40.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:35.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:30.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:25.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:20.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:15.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:10.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:05.00): Running puzzleSiteScraper()
+(2025-02-23 11:34:00.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:55.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:50.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:45.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:40.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:35.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:30.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:25.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:20.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:15.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:10.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:05.00): Running puzzleSiteScraper()
+(2025-02-23 11:33:00.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:55.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:50.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:45.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:40.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:35.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:30.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:25.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:20.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:15.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:10.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:05.00): Running puzzleSiteScraper()
+(2025-02-23 11:32:00.00): Running puzzleSiteScraper()
+(2025-02-23 11:31:55.00): Running puzzleSiteScraper()
+(2025-02-23 11:31:50.00): Running puzzleSiteScraper()
+(2025-02-23 11:31:45.00): Running puzzleSiteScraper()
+(2025-02-23 11:31:40.00): Running puzzleSiteScraper()
+(2025-02-23 11:31:35.00): Running puzzleSiteScraper()
+(2025-02-23 11:31:30.00): Running puzzleSiteScraper()
+(2025-02-23 11:31:25.00): Running puzzleSiteScraper()
+(2025-02-23 11:31:20.00): Running puzzleSiteScraper()

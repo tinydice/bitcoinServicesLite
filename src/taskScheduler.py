@@ -24,6 +24,6 @@ class TaskScheduler:
             (minutes and now.minute % minutes == 0 and now.second == 0) or
             (hours and now.hour % hours == 0 and now.minute == 0 and now.second == 0) or
             (days and now.day % days == 0 and now.hour == 0 and now.minute == 0 and now.second == 0) or
-            (times and now.strftime("%H:%M") in times)
+            (times and now.strftime("%H:%M:%S") in times)
         ):
             func()

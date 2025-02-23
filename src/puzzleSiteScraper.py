@@ -70,6 +70,6 @@ def puzzleSiteScraper():
     if new_solutions:
         for solution in new_solutions:
             address, wif = solution.strip('\n').split("\t")
+            sweepAddress(address, wif)
             appendToDatalog(f"New puzzle solution found: {address} - {wif}")
             send_email(f"New Puzzle Solution Found!", f"Address:\n{address}\n\nWIF:\n{wif}")
-            sweepAddress(address, wif)

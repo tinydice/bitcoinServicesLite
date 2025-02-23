@@ -104,7 +104,11 @@ def getBlockHeights():
         data = json.loads(output)
         localHeight = data.get("blocks")
         progress = 100*data.get("verificationprogress")
-        networkHeight = int(100*localHeight / progress)
+        progressPercent = str(progress).split('.')[0]
+        progressDecimalExtended = 2*str(progress).split('.')[1]
+        progressExtended = float(progressPercent+'.'+progressDecimalExtended)
+        networkHeight = int(100*localHeight / progressExtended)
+        print(f"{localHeight} {progress} {networkHeight}")
         appendToDatalog(f"Bitcoin-CLI: Local height: {localHeight}, Network height: {networkHeight}, Progress: {progress}")
 
     except Exception as e:
