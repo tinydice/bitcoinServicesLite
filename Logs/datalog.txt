@@ -1,0 +1,633 @@
+(2025-02-23 10:19:02.10): Running puzzleSiteScraper()
+(2025-02-23 10:19:02.10): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_addresses.txt
+(2025-02-23 10:19:02.06): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_data.txt
+(2025-02-23 10:19:00.00): Bitcoin-CLI: Local height: 884995, Network height: 884997, Progress: 99.9997655348824
+(2025-02-23 10:19:00.00): Running getBlockHeights()
+(2025-02-23 10:19:00.00): Running blockParser()
+(2025-02-23 10:18:02.71): Running puzzleSiteScraper()
+(2025-02-23 10:18:02.71): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_addresses.txt
+(2025-02-23 10:18:02.67): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_data.txt
+(2025-02-23 10:18:00.00): Bitcoin-CLI: Local height: 884995, Network height: 884996, Progress: 99.99979412813055
+(2025-02-23 10:18:00.00): Running getBlockHeights()
+(2025-02-23 10:18:00.00): Running blockParser()
+(2025-02-23 10:17:02.37): Running puzzleSiteScraper()
+(2025-02-23 10:17:02.37): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_addresses.txt
+(2025-02-23 10:17:02.33): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_data.txt
+(2025-02-23 10:17:00.00): Bitcoin-CLI: Local height: 884995, Network height: 884996, Progress: 99.99982272139506
+(2025-02-23 10:17:00.00): Running getBlockHeights()
+(2025-02-23 10:17:00.00): Running blockParser()
+(2025-02-23 10:16:02.61): Running puzzleSiteScraper()
+(2025-02-23 10:16:02.61): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_addresses.txt
+(2025-02-23 10:16:02.57): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_data.txt
+(2025-02-23 10:16:00.00): Bitcoin-CLI: Local height: 884995, Network height: 884996, Progress: 99.99985131467594
+(2025-02-23 10:16:00.00): Running getBlockHeights()
+(2025-02-23 10:16:00.00): Running blockParser()
+(2025-02-23 10:15:03.84): Running puzzleSiteScraper()
+(2025-02-23 10:15:03.84): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_addresses.txt
+(2025-02-23 10:15:03.80): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_data.txt
+(2025-02-23 10:15:00.00): Bitcoin-CLI: Local height: 884995, Network height: 884996, Progress: 99.99987990797314
+(2025-02-23 10:15:00.00): Running getBlockHeights()
+(2025-02-23 10:15:00.00): Running blockParser()
+(2025-02-23 10:14:36.39): Running puzzleSiteScraper()
+(2025-02-23 10:14:36.39): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_addresses.txt
+(2025-02-23 10:14:36.34): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_data.txt
+(2025-02-23 10:14:33.62): Bitcoin-CLI: Local height: 884995, Network height: 884995, Progress: 99.999892298407
+(2025-02-23 10:14:33.62): Running getBlockHeights()
+(2025-02-23 10:14:33.62): Running blockParser()
+(2025-02-23 10:14:02.49): Running puzzleSiteScraper()
+(2025-02-23 10:14:02.49): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_addresses.txt
+(2025-02-23 10:14:02.45): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_data.txt
+(2025-02-23 10:14:00.00): Bitcoin-CLI: Local height: 884995, Network height: 884995, Progress: 99.99990850128671
+(2025-02-23 10:14:00.00): Running getBlockHeights()
+(2025-02-23 10:14:00.00): Running blockParser()
+(2025-02-23 10:13:21.59): Running puzzleSiteScraper()
+(2025-02-23 10:13:21.59): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_addresses.txt
+(2025-02-23 10:13:21.55): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884995_data.txt
+(2025-02-23 10:13:17.93): Bitcoin-CLI: Local height: 884995, Network height: 884995, Progress: 99.99992851661594
+(2025-02-23 10:13:17.92): Running getBlockHeights()
+(2025-02-23 10:13:17.92): Running blockParser()
+(2025-02-23 10:13:14.97): Sending email: No UTXOs Found
+(2025-02-23 10:13:14.56): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:13:14.56): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:13:14.35): Running puzzleSiteScraper()
+(2025-02-23 10:13:14.13): Running sweepAddress()
+(2025-02-23 10:13:11.18): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:13:11.18): New puzzle solution found: 15z9c9sVpu6fwNiK7dMAFgMYSK4GqsGZim - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjguYJTZsntce5oQQrh
+(2025-02-23 10:13:08.23): Sending email: No UTXOs Found
+(2025-02-23 10:13:07.78): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:13:07.78): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:13:07.57): Running puzzleSiteScraper()
+(2025-02-23 10:13:07.34): Running sweepAddress()
+(2025-02-23 10:13:04.49): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:13:04.49): New puzzle solution found: 1MEzite4ReNuWaL5Ds17ePKt2dCxWEofwk - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgfXBMYdNVA4EjUMzg
+(2025-02-23 10:13:01.68): Sending email: No UTXOs Found
+(2025-02-23 10:13:01.30): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:13:01.30): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:13:01.11): Running puzzleSiteScraper()
+(2025-02-23 10:13:00.88): Running sweepAddress()
+(2025-02-23 10:12:57.88): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:12:57.88): New puzzle solution found: 1QCbW9HWnwQWiQqVo5exhAnmfqKRrCRsvW - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFY5iMZbuRxj
+(2025-02-23 10:12:54.91): Sending email: No UTXOs Found
+(2025-02-23 10:12:54.65): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:12:54.65): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:12:54.42): Running puzzleSiteScraper()
+(2025-02-23 10:12:54.18): Running sweepAddress()
+(2025-02-23 10:12:51.24): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:12:51.24): New puzzle solution found: 1Dn8NF8qDyyfHMktmuoQLGyjWmZXgvosXf - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjv2kTamEYQT9BNC7o1
+(2025-02-23 10:12:49.17): Sending email: No UTXOs Found
+(2025-02-23 10:12:48.76): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:12:48.76): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:12:48.53): Running puzzleSiteScraper()
+(2025-02-23 10:12:48.29): Running sweepAddress()
+(2025-02-23 10:12:45.39): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:12:45.39): New puzzle solution found: 1LzhS3k3e9Ub8i2W1V8xQFdB8n2MYCHPCa - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjidyYKE5NcJQZYvknA
+(2025-02-23 10:12:42.46): Sending email: No UTXOs Found
+(2025-02-23 10:12:42.25): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:12:42.25): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:12:42.04): Running puzzleSiteScraper()
+(2025-02-23 10:12:41.79): Running sweepAddress()
+(2025-02-23 10:12:38.86): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:12:38.86): New puzzle solution found: 1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sVHnoWn
+(2025-02-23 10:12:36.03): Sending email: No UTXOs Found
+(2025-02-23 10:12:35.62): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:12:35.62): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:12:35.34): Running puzzleSiteScraper()
+(2025-02-23 10:12:35.12): Running sweepAddress()
+(2025-02-23 10:12:33.87): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:12:33.87): New puzzle solution found: 12JzYkkN76xkwvcPT6AWKZtGX6w2LAgsJg - KwDiBf89QgGbjEhKnhXJuH7LrctLcZtumiizzSmSckgpxQu6ieu6
+(2025-02-23 10:12:31.04): Sending email: No UTXOs Found
+(2025-02-23 10:12:30.59): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:12:30.59): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:12:30.34): Running puzzleSiteScraper()
+(2025-02-23 10:12:30.10): Running sweepAddress()
+(2025-02-23 10:12:27.22): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:12:27.22): New puzzle solution found: 1rSnXMr63jdCuegJFuidJqWxUPV7AtUf7 - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rtHyNcFoApRd
+(2025-02-23 10:12:24.38): Sending email: No UTXOs Found
+(2025-02-23 10:12:24.00): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:12:24.00): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:12:23.79): Running puzzleSiteScraper()
+(2025-02-23 10:12:23.55): Running sweepAddress()
+(2025-02-23 10:12:20.71): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:12:20.71): New puzzle solution found: 1JVnST957hGztonaWK6FougdtjxzHzRMMg - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7tefTXkqGMNis
+(2025-02-23 10:12:18.46): Sending email: No UTXOs Found
+(2025-02-23 10:12:18.11): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:12:18.11): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:12:17.89): Running puzzleSiteScraper()
+(2025-02-23 10:12:17.66): Running sweepAddress()
+(2025-02-23 10:12:14.63): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:12:14.63): New puzzle solution found: 1Kh22PvXERd2xpTQk3ur6pPEqFeckCJfAr - KwDiBf89QgGbjEhKnhXJuH7LrciVrZkCnRjpBspr8M5K8YnUtDNa
+(2025-02-23 10:12:11.68): Sending email: No UTXOs Found
+(2025-02-23 10:12:11.14): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:12:11.14): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:12:09.35): Running puzzleSiteScraper()
+(2025-02-23 10:12:09.12): Running sweepAddress()
+(2025-02-23 10:12:06.05): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:12:06.05): New puzzle solution found: 1McVt1vMtCC7yn5b9wgX1833yCcLXzueeC - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7hDgvu64y
+(2025-02-23 10:12:03.14): Sending email: No UTXOs Found
+(2025-02-23 10:12:02.70): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:12:02.70): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:12:02.48): Running puzzleSiteScraper()
+(2025-02-23 10:12:02.24): Running sweepAddress()
+(2025-02-23 10:11:59.35): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:11:59.35): New puzzle solution found: 1PiFuqGpG8yGM5v6rNHWS3TjsG6awgEGA1 - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgdB23bP5LsYN8Krv7
+(2025-02-23 10:11:56.44): Sending email: No UTXOs Found
+(2025-02-23 10:11:56.02): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:11:56.02): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:11:55.80): Running puzzleSiteScraper()
+(2025-02-23 10:11:55.57): Running sweepAddress()
+(2025-02-23 10:11:52.48): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:11:52.48): New puzzle solution found: 15K1YKJMiJ4fpesTVUcByoz334rHmknxmT - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjh5SmqrUoK2mhwSYFV
+(2025-02-23 10:11:49.51): Sending email: No UTXOs Found
+(2025-02-23 10:11:49.04): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:11:49.04): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:11:48.83): Running puzzleSiteScraper()
+(2025-02-23 10:11:48.59): Running sweepAddress()
+(2025-02-23 10:11:45.75): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:11:45.75): New puzzle solution found: 12CiUhYVTTH33w3SPUBqcpMoqnApAV4WCF - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgejcjwprJ4MAYLw8e
+(2025-02-23 10:11:42.70): Sending email: No UTXOs Found
+(2025-02-23 10:11:42.14): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:11:42.14): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:11:41.93): Running puzzleSiteScraper()
+(2025-02-23 10:11:41.52): Running sweepAddress()
+(2025-02-23 10:11:38.55): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:11:38.55): New puzzle solution found: 12jbtzBb54r97TCwW3G1gCFoumpckRAPdY - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M82GSgY8p5EkUe
+(2025-02-23 10:11:36.50): Sending email: No UTXOs Found
+(2025-02-23 10:11:36.10): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:11:36.10): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:11:35.87): Running puzzleSiteScraper()
+(2025-02-23 10:11:35.65): Running sweepAddress()
+(2025-02-23 10:11:32.74): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:11:32.74): New puzzle solution found: 1LeBZP5QCwwgXRtmVUvTVrraqPUokyLHqe - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU8mxpTKfD1
+(2025-02-23 10:11:29.95): Sending email: No UTXOs Found
+(2025-02-23 10:11:29.57): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:11:29.57): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:11:29.35): Running puzzleSiteScraper()
+(2025-02-23 10:11:29.11): Running sweepAddress()
+(2025-02-23 10:11:26.24): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:11:26.24): New puzzle solution found: 1J36UjUByGroXcCvmj13U6uwaVv9caEeAt - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3yHuxB7NfERRuDTNy2kbr
+(2025-02-23 10:11:23.30): Sending email: No UTXOs Found
+(2025-02-23 10:11:22.91): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:11:22.91): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:11:22.68): Running puzzleSiteScraper()
+(2025-02-23 10:11:22.46): Running sweepAddress()
+(2025-02-23 10:11:19.57): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:11:19.57): New puzzle solution found: 1PgQVLmst3Z314JrQn5TNiys8Hc38TcXJu - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUBBtnGJbuL
+(2025-02-23 10:11:16.69): Sending email: No UTXOs Found
+(2025-02-23 10:11:16.27): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:11:16.27): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:11:16.08): Running puzzleSiteScraper()
+(2025-02-23 10:11:15.85): Running sweepAddress()
+(2025-02-23 10:11:13.00): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:11:13.00): New puzzle solution found: 1LHtnpd8nU5VHEMkG2TMYYNUjjLc992bps - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M8diLSC5MyERoW
+(2025-02-23 10:11:10.88): Sending email: No UTXOs Found
+(2025-02-23 10:11:10.47): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:11:10.47): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:11:10.24): Running puzzleSiteScraper()
+(2025-02-23 10:11:09.99): Running sweepAddress()
+(2025-02-23 10:11:07.17): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:11:07.17): New puzzle solution found: 1NtiLNGegHWE3Mp9g2JPkgx6wUg4TW7bbk - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgdDrgx63tbte4scLA
+(2025-02-23 10:11:04.22): Sending email: No UTXOs Found
+(2025-02-23 10:11:03.76): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:11:03.76): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:11:03.53): Running puzzleSiteScraper()
+(2025-02-23 10:11:03.26): Running sweepAddress()
+(2025-02-23 10:11:00.29): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:11:00.29): New puzzle solution found: 16jY7qLJnxb7CHZyqBP8qca9d51gAjyXQN - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qZ6FxoaD5r1kYegmtbaT
+(2025-02-23 10:10:57.35): Sending email: No UTXOs Found
+(2025-02-23 10:10:57.01): Fetching BTC price from mempool.space: 95605
+(2025-02-23 10:10:57.01): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:10:56.80): Running puzzleSiteScraper()
+(2025-02-23 10:10:56.59): Running sweepAddress()
+(2025-02-23 10:10:53.74): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:10:53.74): New puzzle solution found: 1KYUv7nSvXx4642TKeuC2SNdTk326uUpFy - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjhHvuTMSDchRp5hktc
+(2025-02-23 10:10:50.96): Sending email: No UTXOs Found
+(2025-02-23 10:10:50.54): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:10:50.54): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:10:50.35): Running puzzleSiteScraper()
+(2025-02-23 10:10:50.12): Running sweepAddress()
+(2025-02-23 10:10:48.13): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:10:48.13): New puzzle solution found: 1Pd8VvT49sHKsmqrQiP61RsVwmXCZ6ay7Z - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgdcLTenJYVVVTRzxN
+(2025-02-23 10:10:45.17): Sending email: No UTXOs Found
+(2025-02-23 10:10:44.69): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:10:44.69): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:10:44.49): Running puzzleSiteScraper()
+(2025-02-23 10:10:44.26): Running sweepAddress()
+(2025-02-23 10:10:41.31): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:10:41.31): New puzzle solution found: 1CUNEBjYrCn2y1SdiUMohaKUi4wpP326Lb - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU74sHUHy8S
+(2025-02-23 10:10:38.31): Sending email: No UTXOs Found
+(2025-02-23 10:10:37.92): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:10:37.92): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:10:37.70): Running puzzleSiteScraper()
+(2025-02-23 10:10:37.47): Running sweepAddress()
+(2025-02-23 10:10:34.64): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:10:34.64): New puzzle solution found: 1HBtApAFA9B2YZw3G2YKSMCtb3dVnjuNe2 - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9P3MahktLW5315v
+(2025-02-23 10:10:31.76): Sending email: No UTXOs Found
+(2025-02-23 10:10:31.32): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:10:31.32): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:10:31.09): Running puzzleSiteScraper()
+(2025-02-23 10:10:30.85): Running sweepAddress()
+(2025-02-23 10:10:27.77): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:10:27.77): New puzzle solution found: 1ErZWg5cFCe4Vw5BzgfzB74VNLaXEiEkhk - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUYCRpkG3zZ
+(2025-02-23 10:10:24.76): Sending email: No UTXOs Found
+(2025-02-23 10:10:24.20): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:10:24.20): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:10:24.00): Running puzzleSiteScraper()
+(2025-02-23 10:10:23.74): Running sweepAddress()
+(2025-02-23 10:10:20.79): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:10:20.79): New puzzle solution found: 18ZMbwUFLMHoZBbfpCjUJQTCMCbktshgpe - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qZM21gaY8WN2CdwnTG57
+(2025-02-23 10:10:17.98): Sending email: No UTXOs Found
+(2025-02-23 10:10:17.62): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:10:17.62): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:10:17.39): Running puzzleSiteScraper()
+(2025-02-23 10:10:17.17): Running sweepAddress()
+(2025-02-23 10:10:14.37): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:10:14.37): New puzzle solution found: 1Kn5h2qpgw9mWE5jKpk8PP4qvvJ1QVy8su - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYkzijLsc5qE43yZ5eLV
+(2025-02-23 10:10:11.46): Sending email: No UTXOs Found
+(2025-02-23 10:10:06.08): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:10:06.08): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:10:05.87): Running puzzleSiteScraper()
+(2025-02-23 10:10:05.63): Running sweepAddress()
+(2025-02-23 10:10:02.87): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:10:02.87): New puzzle solution found: 14iXhn8bGajVWegZHJ18vJLHhntcpL4dex - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9NRuiZFAX6XciCX
+(2025-02-23 10:10:00.01): Sending email: No UTXOs Found
+(2025-02-23 10:09:59.40): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:09:59.40): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:09:59.21): Running puzzleSiteScraper()
+(2025-02-23 10:09:58.98): Running sweepAddress()
+(2025-02-23 10:09:56.08): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:09:56.08): New puzzle solution found: 1HduPEXZRdG26SUT5Yk83mLkPyjnZuJ7Bm - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFiHkRsp99uC
+(2025-02-23 10:09:53.16): Sending email: No UTXOs Found
+(2025-02-23 10:09:52.86): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:09:52.86): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:09:52.64): Running puzzleSiteScraper()
+(2025-02-23 10:09:52.42): Running sweepAddress()
+(2025-02-23 10:09:49.46): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:09:49.46): New puzzle solution found: 1Pie8JkxBT6MGPz9Nvi3fsPkr2D8q3GBc1 - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUKaQpLTNwP
+(2025-02-23 10:09:46.78): Sending email: No UTXOs Found
+(2025-02-23 10:09:46.20): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:09:46.20): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:09:46.00): Running puzzleSiteScraper()
+(2025-02-23 10:09:45.77): Running sweepAddress()
+(2025-02-23 10:09:43.04): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:09:43.04): New puzzle solution found: 1FRoHA9xewq7DjrZ1psWJVeTer8gHRqEvR - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9MACNivtz8yMYTd
+(2025-02-23 10:09:40.21): Sending email: No UTXOs Found
+(2025-02-23 10:09:39.87): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:09:39.86): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:09:39.65): Running puzzleSiteScraper()
+(2025-02-23 10:09:39.41): Running sweepAddress()
+(2025-02-23 10:09:36.49): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:09:36.49): New puzzle solution found: 1L2GM8eE7mJWLdo3HZS6su1832NX2txaac - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rVkthFNsQ6i7
+(2025-02-23 10:09:34.40): Sending email: No UTXOs Found
+(2025-02-23 10:09:33.93): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:09:33.93): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:09:33.70): Running puzzleSiteScraper()
+(2025-02-23 10:09:33.48): Running sweepAddress()
+(2025-02-23 10:09:30.45): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:09:30.45): New puzzle solution found: 1CfZWK1QTQE3eS9qn61dQjV89KDjZzfNcv - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rP9Ja2dhtxoh
+(2025-02-23 10:09:27.49): Sending email: No UTXOs Found
+(2025-02-23 10:09:27.02): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:09:27.02): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:09:26.79): Running puzzleSiteScraper()
+(2025-02-23 10:09:26.56): Running sweepAddress()
+(2025-02-23 10:09:24.56): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:09:24.56): New puzzle solution found: 1AVJKwzs9AskraJLGHAZPiaZcrpDr1U6AB - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYmLDHsih379uP9zbHSD
+(2025-02-23 10:09:21.57): Sending email: No UTXOs Found
+(2025-02-23 10:09:21.12): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:09:21.12): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:09:20.91): Running puzzleSiteScraper()
+(2025-02-23 10:09:20.66): Running sweepAddress()
+(2025-02-23 10:09:17.64): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:09:17.64): New puzzle solution found: 1PWABE7oUahG2AFFQhhvViQovnCr4rEv7Q - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9MJaAKqns7PN9Ra
+(2025-02-23 10:09:14.68): Sending email: No UTXOs Found
+(2025-02-23 10:09:14.27): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:09:14.27): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:09:14.06): Running puzzleSiteScraper()
+(2025-02-23 10:09:13.81): Running sweepAddress()
+(2025-02-23 10:09:10.69): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:09:10.69): New puzzle solution found: 1PWCx5fovoEaoBowAvF5k91m2Xat9bMgwb - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9MP7J9oTbu6KuRr
+(2025-02-23 10:09:07.73): Sending email: No UTXOs Found
+(2025-02-23 10:09:07.35): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:09:07.35): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:09:07.11): Running puzzleSiteScraper()
+(2025-02-23 10:09:06.81): Running sweepAddress()
+(2025-02-23 10:09:04.57): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:09:04.57): New puzzle solution found: 1DBaumZxUkM4qMQRt2LVWyFJq5kDtSZQot - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUW5RtS2JN1
+(2025-02-23 10:09:01.65): Sending email: No UTXOs Found
+(2025-02-23 10:09:01.17): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:09:01.17): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:09:00.94): Running puzzleSiteScraper()
+(2025-02-23 10:09:00.52): Running sweepAddress()
+(2025-02-23 10:08:57.67): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:08:57.67): New puzzle solution found: 1BCf6rHUW6m3iH2ptsvnjgLruAiPQQepLe - KwDiBf89QgGbjEhKnhXJuH7LrciVrZiAPRB6KvN7FnKsw69PP7vW
+(2025-02-23 10:08:54.64): Sending email: No UTXOs Found
+(2025-02-23 10:08:54.26): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:08:54.26): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:08:54.05): Running puzzleSiteScraper()
+(2025-02-23 10:08:53.82): Running sweepAddress()
+(2025-02-23 10:08:50.95): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:08:50.95): New puzzle solution found: 19ZewH8Kk1PDbSNdJ97FP4EiCjTRaZMZQA - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU76rnZwVdz
+(2025-02-23 10:08:48.00): Sending email: No UTXOs Found
+(2025-02-23 10:08:47.51): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:08:47.51): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:08:47.29): Running puzzleSiteScraper()
+(2025-02-23 10:08:47.05): Running sweepAddress()
+(2025-02-23 10:08:44.19): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:08:44.19): New puzzle solution found: 1PXAyUB8ZoH3WD8n5zoAthYjN15yN5CVq5 - KwDiBf89QgGbjEhKnhXJuH7Nbdz1FhKePEPcr4to6PqoSc6KxQy6
+(2025-02-23 10:08:41.10): Sending email: No UTXOs Found
+(2025-02-23 10:08:40.71): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:08:40.71): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:08:40.46): Running puzzleSiteScraper()
+(2025-02-23 10:08:40.24): Running sweepAddress()
+(2025-02-23 10:08:37.17): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:08:37.17): New puzzle solution found: 1NLbHuJebVwUZ1XqDjsAyfTRUPwDQbemfv - KwDiBf89QgGbjEhKnhXJuH7LrhcVkatbczm7Y9ZaB56U1jLNU2Xh
+(2025-02-23 10:08:34.35): Sending email: No UTXOs Found
+(2025-02-23 10:08:33.87): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:08:33.87): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:08:33.65): Running puzzleSiteScraper()
+(2025-02-23 10:08:33.42): Running sweepAddress()
+(2025-02-23 10:08:30.38): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:08:30.38): New puzzle solution found: 19eVSDuizydXxhohGh8Ki9WY9KsHdSwoQC - KwDiBf89QgGbjEhKnhXJuH7LrciVsLfMYB8ydZ3QXMqEra1sapfT
+(2025-02-23 10:08:27.47): Sending email: No UTXOs Found
+(2025-02-23 10:08:26.88): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:08:26.88): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:08:26.67): Running puzzleSiteScraper()
+(2025-02-23 10:08:26.43): Running sweepAddress()
+(2025-02-23 10:08:23.43): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:08:23.43): New puzzle solution found: 1M92tSqNmQLYw33fuBvjmeadirh1ysMBxK - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU8xvGK1zpm
+(2025-02-23 10:08:20.52): Sending email: No UTXOs Found
+(2025-02-23 10:08:20.16): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:08:20.16): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:08:19.95): Running puzzleSiteScraper()
+(2025-02-23 10:08:19.69): Running sweepAddress()
+(2025-02-23 10:08:16.75): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:08:16.75): New puzzle solution found: 1LhE6sCTuGae42Axu1L1ZB7L96yi9irEBE - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M9SmFMSCA4jQRW
+(2025-02-23 10:08:13.99): Sending email: No UTXOs Found
+(2025-02-23 10:08:13.49): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:08:13.49): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:08:13.26): Running puzzleSiteScraper()
+(2025-02-23 10:08:13.00): Running sweepAddress()
+(2025-02-23 10:08:10.01): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:08:10.01): New puzzle solution found: 1CkR2uS7LmFwc3T2jV8C1BhWb5mQaoxedF - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgdCpdGyxm7PWoNQdr
+(2025-02-23 10:08:07.86): Sending email: No UTXOs Found
+(2025-02-23 10:08:05.82): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:08:05.82): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:08:05.62): Running puzzleSiteScraper()
+(2025-02-23 10:08:05.40): Running sweepAddress()
+(2025-02-23 10:08:03.30): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:08:03.30): New puzzle solution found: 1EhqbyUMvvs7BfL8goY6qcPbD6YKfPqb7e - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU77MfhviY5
+(2025-02-23 10:08:00.24): Sending email: No UTXOs Found
+(2025-02-23 10:08:00.01): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:08:00.01): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:07:59.75): Running puzzleSiteScraper()
+(2025-02-23 10:07:59.50): Running sweepAddress()
+(2025-02-23 10:07:56.53): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:07:56.53): New puzzle solution found: 187swFMjz1G54ycVU56B7jZFHFTNVQFDiu - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9MDGKrXXQL647jj
+(2025-02-23 10:07:53.63): Sending email: No UTXOs Found
+(2025-02-23 10:07:53.20): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:07:53.20): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:07:52.99): Running puzzleSiteScraper()
+(2025-02-23 10:07:52.77): Running sweepAddress()
+(2025-02-23 10:07:49.86): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:07:49.86): New puzzle solution found: 1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9 - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qbP2K5cm35XKMND1X1KW
+(2025-02-23 10:07:46.91): Sending email: No UTXOs Found
+(2025-02-23 10:07:46.17): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:07:46.17): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:07:45.92): Running puzzleSiteScraper()
+(2025-02-23 10:07:45.68): Running sweepAddress()
+(2025-02-23 10:07:42.63): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:07:42.63): New puzzle solution found: 1E32GPWgDyeyQac4aJxm9HVoLrrEYPnM4N - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9zzYEemjCVJ3vo9
+(2025-02-23 10:07:39.61): Sending email: No UTXOs Found
+(2025-02-23 10:07:39.23): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:07:39.23): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:07:39.02): Running puzzleSiteScraper()
+(2025-02-23 10:07:38.79): Running sweepAddress()
+(2025-02-23 10:07:35.70): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:07:35.70): New puzzle solution found: 1HsMJxNiV7TLxmoF6uJNkydxPFDog4NQum - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rHfuE2Tg4nJW
+(2025-02-23 10:07:32.78): Sending email: No UTXOs Found
+(2025-02-23 10:07:32.33): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:07:32.33): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:07:32.09): Running puzzleSiteScraper()
+(2025-02-23 10:07:31.85): Running sweepAddress()
+(2025-02-23 10:07:29.69): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:07:29.69): New puzzle solution found: 1PitScNLyp2HCygzadCh7FveTnfmpPbfp8 - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7Jp14sBF1
+(2025-02-23 10:07:26.62): Sending email: No UTXOs Found
+(2025-02-23 10:07:26.24): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:07:26.23): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:07:26.03): Running puzzleSiteScraper()
+(2025-02-23 10:07:25.80): Running sweepAddress()
+(2025-02-23 10:07:22.81): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:07:22.81): New puzzle solution found: 1NpYjtLira16LfGbGwZJ5JbDPh3ai9bjf4 - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYv5Z9J7hv7VYYN3XL3Y
+(2025-02-23 10:07:19.96): Sending email: No UTXOs Found
+(2025-02-23 10:07:19.61): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:07:19.61): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:07:19.41): Running puzzleSiteScraper()
+(2025-02-23 10:07:19.17): Running sweepAddress()
+(2025-02-23 10:07:16.25): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:07:16.25): New puzzle solution found: 17aPYR1m6pVAacXg1PTDDU7XafvK1dxvhi - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjjb65nDHeqyjiBaJXv
+(2025-02-23 10:07:13.19): Sending email: No UTXOs Found
+(2025-02-23 10:07:12.76): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:07:12.76): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:07:12.53): Running puzzleSiteScraper()
+(2025-02-23 10:07:12.29): Running sweepAddress()
+(2025-02-23 10:07:08.90): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:07:08.90): New puzzle solution found: 1BDyrQ6WoF8VN3g9SAS1iKZcPzFfnDVieY - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFbjHrFMWzJp
+(2025-02-23 10:07:05.89): Sending email: No UTXOs Found
+(2025-02-23 10:07:05.24): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:07:05.24): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:07:05.01): Running puzzleSiteScraper()
+(2025-02-23 10:07:04.76): Running sweepAddress()
+(2025-02-23 10:07:01.78): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:07:01.78): New puzzle solution found: 19EEC52krRUK1RkUAEZmQdjTyHT7Gp1TYT - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M89tAnjFUUDRtJ
+(2025-02-23 10:06:58.59): Sending email: No UTXOs Found
+(2025-02-23 10:06:58.25): Fetching BTC price from mempool.space: 95458
+(2025-02-23 10:06:58.25): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:06:58.00): Running puzzleSiteScraper()
+(2025-02-23 10:06:57.76): Running sweepAddress()
+(2025-02-23 10:06:54.76): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:06:54.76): New puzzle solution found: 122AJhKLEfkFBaGAd84pLp1kfE7xK3GdT8 - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9RMTSCcQzX3EjMZ
+(2025-02-23 10:06:51.52): Sending email: No UTXOs Found
+(2025-02-23 10:06:51.04): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:06:51.04): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:06:50.83): Running puzzleSiteScraper()
+(2025-02-23 10:06:50.59): Running sweepAddress()
+(2025-02-23 10:06:47.46): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:06:47.46): New puzzle solution found: 1F3JRMWudBaj48EhwcHDdpeuy2jwACNxjP - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgdLwb42sQhwTBJDnG
+(2025-02-23 10:06:44.43): Sending email: No UTXOs Found
+(2025-02-23 10:06:43.96): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:06:43.96): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:06:43.72): Running puzzleSiteScraper()
+(2025-02-23 10:06:43.49): Running sweepAddress()
+(2025-02-23 10:06:40.36): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:06:40.36): New puzzle solution found: 1L12FHH2FHjvTviyanuiFVfmzCy46RRATU - KwDiBf89QgGbjEhKnhXJuH7LrciVrbEiEhLWVU4Yn1RCfnX51KrT
+(2025-02-23 10:06:37.39): Sending email: No UTXOs Found
+(2025-02-23 10:06:37.04): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:06:37.04): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:06:36.82): Running puzzleSiteScraper()
+(2025-02-23 10:06:31.58): Running sweepAddress()
+(2025-02-23 10:06:28.60): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:06:28.60): New puzzle solution found: 1Me6EfpwZK5kQziBwBfvLiHjaPGxCKLoJi - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYpCemuaUp7NigjvtJug
+(2025-02-23 10:06:25.69): Sending email: No UTXOs Found
+(2025-02-23 10:06:25.18): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:06:25.18): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:06:24.98): Running puzzleSiteScraper()
+(2025-02-23 10:06:24.73): Running sweepAddress()
+(2025-02-23 10:06:21.78): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:06:21.78): New puzzle solution found: 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qZfFoWMiwBt943V7CQeX
+(2025-02-23 10:06:18.79): Sending email: No UTXOs Found
+(2025-02-23 10:06:18.36): Fetching BTC price from mempool.space: 95458
+(2025-02-23 10:06:18.36): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:06:18.11): Running puzzleSiteScraper()
+(2025-02-23 10:06:17.86): Running sweepAddress()
+(2025-02-23 10:06:15.04): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:06:15.04): New puzzle solution found: 1GnNTmTVLZiqQfLbAdp9DVdicEnB5GoERE - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFyWkjT5fywW
+(2025-02-23 10:06:12.04): Sending email: No UTXOs Found
+(2025-02-23 10:06:11.66): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:06:11.66): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:06:11.44): Running puzzleSiteScraper()
+(2025-02-23 10:06:11.15): Running sweepAddress()
+(2025-02-23 10:06:08.01): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:06:08.01): New puzzle solution found: 1NWmZRpHH4XSPwsW6dsS3nrNWfL1yrJj4w - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rGP2jMrxCfX3
+(2025-02-23 10:06:05.10): Sending email: No UTXOs Found
+(2025-02-23 10:06:04.81): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:06:04.81): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:06:04.60): Running puzzleSiteScraper()
+(2025-02-23 10:06:04.36): Running sweepAddress()
+(2025-02-23 10:06:01.27): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:06:01.27): New puzzle solution found: 1Fo65aKq8s8iquMt6weF1rku1moWVEd5Ua - KwDiBf89QgGbjEhKnhXJuH8DvUBxVmJ3761ahfZuohBr53Zh9M3t
+(2025-02-23 10:05:59.21): Sending email: No UTXOs Found
+(2025-02-23 10:05:58.76): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:05:58.76): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:05:58.53): Running puzzleSiteScraper()
+(2025-02-23 10:05:58.29): Running sweepAddress()
+(2025-02-23 10:05:55.44): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:05:55.44): New puzzle solution found: 1KCgMv8fo2TPBpddVi9jqmMmcne9uSNJ5F - KwDiBf89QgGbjEhKnhXJuH7LrciWJvjTPYdp4sSLwstc63avmfRA
+(2025-02-23 10:05:52.62): Sending email: No UTXOs Found
+(2025-02-23 10:05:52.20): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:05:52.20): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:05:51.95): Running puzzleSiteScraper()
+(2025-02-23 10:05:51.73): Running sweepAddress()
+(2025-02-23 10:05:48.76): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:05:48.76): New puzzle solution found: 1E6NuFjCi27W5zoXg8TRdcSRq84zJeBW3k - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7AquceHN3
+(2025-02-23 10:05:45.96): Sending email: No UTXOs Found
+(2025-02-23 10:05:45.69): Fetching BTC price from mempool.space: 95458
+(2025-02-23 10:05:45.69): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:05:45.47): Running puzzleSiteScraper()
+(2025-02-23 10:05:45.22): Running sweepAddress()
+(2025-02-23 10:05:42.29): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:05:42.28): New puzzle solution found: 15JhYXn6Mx3oF4Y7PcTAv2wVVAuCFFQNiP - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7siAXycwkwRQg
+(2025-02-23 10:05:39.26): Sending email: No UTXOs Found
+(2025-02-23 10:05:38.96): Fetching BTC price from mempool.space: 95514
+(2025-02-23 10:05:38.96): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:05:38.72): Running puzzleSiteScraper()
+(2025-02-23 10:05:38.49): Running sweepAddress()
+(2025-02-23 10:05:35.66): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:05:35.66): New puzzle solution found: 1DFYhaB2J9q1LLZJWKTnscPWos9VBqDHzv - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgdtUGWxHzvDi28MfR
+(2025-02-23 10:05:33.65): Sending email: No UTXOs Found
+(2025-02-23 10:05:33.38): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:05:33.38): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:05:33.17): Running puzzleSiteScraper()
+(2025-02-23 10:05:32.92): Running sweepAddress()
+(2025-02-23 10:05:29.90): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:05:29.90): New puzzle solution found: 17s2b9ksz5y7abUm92cHwG8jEPCzK3dLnT - KwDiBf89QgGbjEhKnhXJuH7Lu5nahGjEQZB8k82itXNSb1Aa2Woh
+(2025-02-23 10:05:26.72): Sending email: No UTXOs Found
+(2025-02-23 10:05:26.30): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:05:26.30): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:05:26.09): Running puzzleSiteScraper()
+(2025-02-23 10:05:25.86): Running sweepAddress()
+(2025-02-23 10:05:23.04): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:05:23.04): New puzzle solution found: 1EeAxcprB2PpCnr34VfZdFrkUWuxyiNEFv - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9aFJuCJDo5F6Jm7
+(2025-02-23 10:05:20.00): Sending email: No UTXOs Found
+(2025-02-23 10:05:19.54): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:05:19.54): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:05:19.30): Running puzzleSiteScraper()
+(2025-02-23 10:05:19.06): Running sweepAddress()
+(2025-02-23 10:05:16.16): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:05:16.16): New puzzle solution found: 1L5sU9qvJeuwQUdt4y1eiLmquFxKjtHr3E - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9gCD9CBomewdcUD
+(2025-02-23 10:05:13.41): Sending email: No UTXOs Found
+(2025-02-23 10:05:12.92): Fetching BTC price from mempool.space: 95458
+(2025-02-23 10:05:12.92): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:05:12.71): Running puzzleSiteScraper()
+(2025-02-23 10:05:12.46): Running sweepAddress()
+(2025-02-23 10:05:09.48): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:05:09.48): New puzzle solution found: 1CQFwcjw1dwhtkVWBttNLDtqL7ivBonGPV - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUB3vfDKcxZ
+(2025-02-23 10:05:06.34): Sending email: No UTXOs Found
+(2025-02-23 10:05:06.04): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:05:06.04): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:05:05.80): Running puzzleSiteScraper()
+(2025-02-23 10:05:05.57): Running sweepAddress()
+(2025-02-23 10:05:02.62): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:05:02.62): New puzzle solution found: 14oFNXucftsHiUMY8uctg6N487riuyXs4h - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rL6JJvw6XUry
+(2025-02-23 10:04:59.75): Sending email: No UTXOs Found
+(2025-02-23 10:04:59.42): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:04:59.42): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:04:59.20): Running puzzleSiteScraper()
+(2025-02-23 10:04:58.95): Running sweepAddress()
+(2025-02-23 10:04:56.76): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:04:56.76): New puzzle solution found: 19YZECXj3SxEZMoUeJ1yiPsw8xANe7M7QR - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qt5RQNhFCn1r58in2E78
+(2025-02-23 10:04:53.80): Sending email: No UTXOs Found
+(2025-02-23 10:04:53.57): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:04:53.57): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:04:53.36): Running puzzleSiteScraper()
+(2025-02-23 10:04:53.14): Running sweepAddress()
+(2025-02-23 10:04:50.29): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:04:50.29): New puzzle solution found: 1HAX2n9Uruu9YDt4cqRgYcvtGvZj1rbUyt - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYkHpsTBP19HvTFqiU6i
+(2025-02-23 10:04:47.33): Sending email: No UTXOs Found
+(2025-02-23 10:04:47.00): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:04:47.00): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:04:41.75): Running puzzleSiteScraper()
+(2025-02-23 10:04:36.50): Running sweepAddress()
+(2025-02-23 10:04:33.51): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:04:33.51): New puzzle solution found: 1CMjscKB3QW7SDyQ4c3C3DEUHiHRhiZVib - KwDiBf89QgGbjEhKnhXJuH7Lrcim5eBMkFQwQtRbW6wxT1ajoNqE
+(2025-02-23 10:04:30.43): Sending email: No UTXOs Found
+(2025-02-23 10:04:30.12): Fetching BTC price from mempool.space: 95458
+(2025-02-23 10:04:30.12): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:04:29.82): Running puzzleSiteScraper()
+(2025-02-23 10:04:29.48): Running sweepAddress()
+(2025-02-23 10:04:26.59): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:04:26.59): New puzzle solution found: 128z5d7nN7PkCuX5qoA4Ys6pmxUYnEy86k - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7wBBz2KJQdASx
+(2025-02-23 10:04:24.38): Sending email: No UTXOs Found
+(2025-02-23 10:04:24.01): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:04:24.01): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:04:23.79): Running puzzleSiteScraper()
+(2025-02-23 10:04:23.56): Running sweepAddress()
+(2025-02-23 10:04:20.58): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:04:20.58): New puzzle solution found: 15c9mPGLku1HuW9LRtBf4jcHVpBUt8txKz - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjqtiAvYTJzYEmqup7b
+(2025-02-23 10:04:17.82): Sending email: No UTXOs Found
+(2025-02-23 10:04:17.53): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:04:17.53): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:04:17.26): Running puzzleSiteScraper()
+(2025-02-23 10:04:17.03): Running sweepAddress()
+(2025-02-23 10:04:14.03): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:04:14.03): New puzzle solution found: 1Be2UF9NLfyLFbtm3TCbmuocc9N1Kduci1 - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9Mg1Upu7eJAtiDr
+(2025-02-23 10:04:10.75): Sending email: No UTXOs Found
+(2025-02-23 10:04:10.39): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:04:10.39): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:04:10.14): Running puzzleSiteScraper()
+(2025-02-23 10:04:09.83): Running sweepAddress()
+(2025-02-23 10:04:06.82): Sending email: New Puzzle Solution Found!
+(2025-02-23 10:04:06.82): New puzzle solution found: 1NpnQyZ7x24ud82b7WiRNvPm6N8bqGQnaS - KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgm9fa43QnU2CpULaK
+(2025-02-23 10:04:04.05): Running puzzleSiteScraper()
+(2025-02-23 10:04:04.04): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884994_addresses.txt
+(2025-02-23 10:04:04.00): Creating file: /home/admin/Documents/bitcoinServicesLite/Logs/884994_data.txt
+(2025-02-23 10:04:01.90): Sending email: Sweep of bc1q72nyp6mzxjxm02j7t85pg0pq24684zdj2wuweu failed.
+(2025-02-23 10:04:00.19): Bitcoin-CLI: Local height: 884994, Network height: 884997, Progress: 99.99957634173721
+(2025-02-23 10:04:00.19): Running getBlockHeights()
+(2025-02-23 10:04:00.19): Running blockParser()
+(2025-02-23 10:03:58.65): Sending email: Attempting to sweep $1,313,987,930.11 to bc1qecz4hqg6r06vptt9x6zxt3auf9vns3hc0mlgnm (RIVER)
+(2025-02-23 10:03:58.65): Attempting to sweep $1,313,987,930.11 to bc1qecz4hqg6r06vptt9x6zxt3auf9vns3hc0mlgnm (RIVER). Amount: 1376393616695 satoshis From:	bc1q72nyp6mzxjxm02j7t85pg0pq24684zdj2wuweu	 WIF:	KxH3bvY8dhscgjsTy8fSsorP93F4UsyXoZY7aeK1W3AJjXEdZD4w	 Fee:	3360 ($3.21) @ 15 sat/vB
+(2025-02-23 10:03:58.30): Fetching BTC price from mempool.space: 95466
+(2025-02-23 10:03:58.30): Successfully fetched data from https://mempool.space/api/v1/prices
+(2025-02-23 10:03:58.10): Running puzzleSiteScraper()
+(2025-02-23 10:03:57.70): Running sweepAddress()
+(2025-02-23 10:03:54.96): Sending email: Raspi5Bolt Status: Fully Synced
+(2025-02-23 10:03:54.96): Electrum has indexed ('884994', '884994') blocks.
+(2025-02-23 10:03:54.95): Running getBlockHeights()
+(2025-02-23 10:03:54.95): Bitcoin-CLI: Local height: 884994, Network height: 884997, Progress: 99.99957920106104
+(2025-02-23 10:03:54.94): Running getBlockHeights()
+(2025-02-23 10:03:54.94): Running blockStatusEmail()
+(2025-02-23 10:03:31.69): Sending email: Raspi5Bolt Status: Fully Synced
+(2025-02-23 10:03:31.69): Electrum has indexed ('884994', '884994') blocks.
+(2025-02-23 10:03:31.45): Running getBlockHeights()
+(2025-02-23 10:03:31.45): Bitcoin-CLI: Local height: 884994, Network height: 884997, Progress: 99.99959016180387
+(2025-02-23 10:03:31.38): Running getBlockHeights()
+(2025-02-23 10:03:31.38): Running blockStatusEmail()

@@ -16,7 +16,8 @@ from bitcoinUtils.src.FORMATutils import *
 import smtplib
 import sys
 
-LOG_PATH = "/home/admin/Documents/bitcoinServices/Logs"
+CWD = os.getcwd()
+LOG_PATH = f"{CWD}/Logs"
 datalog_name = f"{LOG_PATH}/datalog.txt"
 MAX_LOGS = 1000
 
@@ -85,14 +86,6 @@ def clearDatalogIfNeeded():
     if len(logs) >= MAX_LOGS:
         with open(datalog_name, "w") as file:
             file.truncate(0) 
-
-# def appendToDatalog(*entries):
-#     clearDatalogIfNeeded()
-#     with open(datalog_name, "a") as file:
-#         for entry in entries:
-#             timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S.") + f"{int(datetime.now().microsecond / 10000):02d}"
-#             log_entry = f"({timestamp}): {entry}\n"
-#             file.write(log_entry)
 
 def appendToDatalog(*entries):
     clearDatalogIfNeeded() 

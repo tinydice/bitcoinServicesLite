@@ -1,7 +1,5 @@
 import cloudscraper
 from bs4 import BeautifulSoup
-import re
-import hashlib
 from src.email import * 
 import os
 from src.helpers import *
